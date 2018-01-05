@@ -1,0 +1,7 @@
+PyOpenGL 
+PyOpenGL_accelerate
+numpy
+scipy
+matplotlib
+pyqt5
+#python3.6
